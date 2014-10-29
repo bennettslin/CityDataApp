@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F1BE9731A0064480062912D /* business_person-01.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE95F1A0064480062912D /* business_person-01.png */; };
+		3F1BE9741A0064480062912D /* business_person-02.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9601A0064480062912D /* business_person-02.png */; };
+		3F1BE9751A0064480062912D /* business_person-03.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9611A0064480062912D /* business_person-03.png */; };
+		3F1BE9761A0064480062912D /* business_person-04.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9621A0064480062912D /* business_person-04.png */; };
+		3F1BE9771A0064480062912D /* business_person-05.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9631A0064480062912D /* business_person-05.png */; };
+		3F1BE9781A0064480062912D /* business_person-06.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9641A0064480062912D /* business_person-06.png */; };
+		3F1BE9791A0064480062912D /* business_person-07.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9651A0064480062912D /* business_person-07.png */; };
+		3F1BE97A1A0064480062912D /* business_person-08.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9661A0064480062912D /* business_person-08.png */; };
+		3F1BE97B1A0064480062912D /* business_person-09.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9671A0064480062912D /* business_person-09.png */; };
+		3F1BE97C1A0064480062912D /* business_person-10.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9681A0064480062912D /* business_person-10.png */; };
+		3F1BE97D1A0064480062912D /* business_person-11.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9691A0064480062912D /* business_person-11.png */; };
+		3F1BE97E1A0064480062912D /* business_person-12.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE96A1A0064480062912D /* business_person-12.png */; };
+		3F1BE97F1A0064480062912D /* business_person-13.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE96B1A0064480062912D /* business_person-13.png */; };
+		3F1BE9801A0064480062912D /* business_person-14.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE96C1A0064480062912D /* business_person-14.png */; };
+		3F1BE9811A0064480062912D /* business_person-15.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE96D1A0064480062912D /* business_person-15.png */; };
+		3F1BE9821A0064480062912D /* business_person-16.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE96E1A0064480062912D /* business_person-16.png */; };
+		3F1BE9831A0064480062912D /* business_person-17.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE96F1A0064480062912D /* business_person-17.png */; };
+		3F1BE9841A0064480062912D /* business_person-18.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9701A0064480062912D /* business_person-18.png */; };
+		3F1BE9851A0064480062912D /* business_person-19.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9711A0064480062912D /* business_person-19.png */; };
+		3F1BE9861A0064480062912D /* business_person-20.png in Resources */ = {isa = PBXBuildFile; fileRef = 3F1BE9721A0064480062912D /* business_person-20.png */; };
 		3FB5ECB219FF32F600182B00 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FB5ECB119FF32F600182B00 /* main.m */; };
 		3FB5ECB519FF32F600182B00 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FB5ECB419FF32F600182B00 /* AppDelegate.m */; };
 		3FB5ECB819FF32F600182B00 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FB5ECB719FF32F600182B00 /* ViewController.m */; };
@@ -14,6 +34,7 @@
 		3FB5ECBD19FF32F600182B00 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FB5ECBC19FF32F600182B00 /* Images.xcassets */; };
 		3FB5ECC019FF32F600182B00 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3FB5ECBE19FF32F600182B00 /* LaunchScreen.xib */; };
 		3FB5ECCC19FF32F600182B00 /* RatioCityDataAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 3FB5ECCB19FF32F600182B00 /* RatioCityDataAppTests.m */; };
+		3FB5ECFF19FF7EC000182B00 /* Filmotype-Modern.otf in Resources */ = {isa = PBXBuildFile; fileRef = 3FB5ECFE19FF7EB000182B00 /* Filmotype-Modern.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +48,26 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3F1BE95F1A0064480062912D /* business_person-01.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-01.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-01.png"; sourceTree = "<group>"; };
+		3F1BE9601A0064480062912D /* business_person-02.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-02.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-02.png"; sourceTree = "<group>"; };
+		3F1BE9611A0064480062912D /* business_person-03.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-03.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-03.png"; sourceTree = "<group>"; };
+		3F1BE9621A0064480062912D /* business_person-04.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-04.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-04.png"; sourceTree = "<group>"; };
+		3F1BE9631A0064480062912D /* business_person-05.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-05.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-05.png"; sourceTree = "<group>"; };
+		3F1BE9641A0064480062912D /* business_person-06.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-06.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-06.png"; sourceTree = "<group>"; };
+		3F1BE9651A0064480062912D /* business_person-07.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-07.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-07.png"; sourceTree = "<group>"; };
+		3F1BE9661A0064480062912D /* business_person-08.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-08.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-08.png"; sourceTree = "<group>"; };
+		3F1BE9671A0064480062912D /* business_person-09.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-09.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-09.png"; sourceTree = "<group>"; };
+		3F1BE9681A0064480062912D /* business_person-10.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-10.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-10.png"; sourceTree = "<group>"; };
+		3F1BE9691A0064480062912D /* business_person-11.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-11.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-11.png"; sourceTree = "<group>"; };
+		3F1BE96A1A0064480062912D /* business_person-12.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-12.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-12.png"; sourceTree = "<group>"; };
+		3F1BE96B1A0064480062912D /* business_person-13.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-13.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-13.png"; sourceTree = "<group>"; };
+		3F1BE96C1A0064480062912D /* business_person-14.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-14.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-14.png"; sourceTree = "<group>"; };
+		3F1BE96D1A0064480062912D /* business_person-15.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-15.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-15.png"; sourceTree = "<group>"; };
+		3F1BE96E1A0064480062912D /* business_person-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-16.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-16.png"; sourceTree = "<group>"; };
+		3F1BE96F1A0064480062912D /* business_person-17.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-17.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-17.png"; sourceTree = "<group>"; };
+		3F1BE9701A0064480062912D /* business_person-18.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-18.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-18.png"; sourceTree = "<group>"; };
+		3F1BE9711A0064480062912D /* business_person-19.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-19.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-19.png"; sourceTree = "<group>"; };
+		3F1BE9721A0064480062912D /* business_person-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "business_person-20.png"; path = "free_vector_business_people_icons_148012/Free Vector Business People Icons/business_person-20.png"; sourceTree = "<group>"; };
 		3FB5ECAC19FF32F600182B00 /* RatioCityDataApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RatioCityDataApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FB5ECB019FF32F600182B00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FB5ECB119FF32F600182B00 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -40,6 +81,7 @@
 		3FB5ECC519FF32F600182B00 /* RatioCityDataAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RatioCityDataAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FB5ECCA19FF32F600182B00 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3FB5ECCB19FF32F600182B00 /* RatioCityDataAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RatioCityDataAppTests.m; sourceTree = "<group>"; };
+		3FB5ECFE19FF7EB000182B00 /* Filmotype-Modern.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Filmotype-Modern.otf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +105,7 @@
 		3FB5ECA319FF32F600182B00 = {
 			isa = PBXGroup;
 			children = (
+				3FB5ECD519FF702C00182B00 /* Resources */,
 				3FB5ECAE19FF32F600182B00 /* RatioCityDataApp */,
 				3FB5ECC819FF32F600182B00 /* RatioCityDataAppTests */,
 				3FB5ECAD19FF32F600182B00 /* Products */,
@@ -117,6 +160,34 @@
 				3FB5ECCA19FF32F600182B00 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3FB5ECD519FF702C00182B00 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				3F1BE95F1A0064480062912D /* business_person-01.png */,
+				3F1BE9601A0064480062912D /* business_person-02.png */,
+				3F1BE9611A0064480062912D /* business_person-03.png */,
+				3F1BE9621A0064480062912D /* business_person-04.png */,
+				3F1BE9631A0064480062912D /* business_person-05.png */,
+				3F1BE9641A0064480062912D /* business_person-06.png */,
+				3F1BE9651A0064480062912D /* business_person-07.png */,
+				3F1BE9661A0064480062912D /* business_person-08.png */,
+				3F1BE9671A0064480062912D /* business_person-09.png */,
+				3F1BE9681A0064480062912D /* business_person-10.png */,
+				3F1BE9691A0064480062912D /* business_person-11.png */,
+				3F1BE96A1A0064480062912D /* business_person-12.png */,
+				3F1BE96B1A0064480062912D /* business_person-13.png */,
+				3F1BE96C1A0064480062912D /* business_person-14.png */,
+				3F1BE96D1A0064480062912D /* business_person-15.png */,
+				3F1BE96E1A0064480062912D /* business_person-16.png */,
+				3F1BE96F1A0064480062912D /* business_person-17.png */,
+				3F1BE9701A0064480062912D /* business_person-18.png */,
+				3F1BE9711A0064480062912D /* business_person-19.png */,
+				3F1BE9721A0064480062912D /* business_person-20.png */,
+				3FB5ECFE19FF7EB000182B00 /* Filmotype-Modern.otf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -200,8 +271,29 @@
 			buildActionMask = 2147483647;
 			files = (
 				3FB5ECBB19FF32F600182B00 /* Main.storyboard in Resources */,
+				3F1BE9801A0064480062912D /* business_person-14.png in Resources */,
+				3F1BE9751A0064480062912D /* business_person-03.png in Resources */,
 				3FB5ECC019FF32F600182B00 /* LaunchScreen.xib in Resources */,
+				3F1BE9741A0064480062912D /* business_person-02.png in Resources */,
+				3F1BE97F1A0064480062912D /* business_person-13.png in Resources */,
+				3F1BE97D1A0064480062912D /* business_person-11.png in Resources */,
+				3F1BE97B1A0064480062912D /* business_person-09.png in Resources */,
+				3F1BE9781A0064480062912D /* business_person-06.png in Resources */,
+				3F1BE9761A0064480062912D /* business_person-04.png in Resources */,
+				3F1BE9851A0064480062912D /* business_person-19.png in Resources */,
+				3F1BE9791A0064480062912D /* business_person-07.png in Resources */,
 				3FB5ECBD19FF32F600182B00 /* Images.xcassets in Resources */,
+				3F1BE97A1A0064480062912D /* business_person-08.png in Resources */,
+				3F1BE9831A0064480062912D /* business_person-17.png in Resources */,
+				3F1BE97E1A0064480062912D /* business_person-12.png in Resources */,
+				3F1BE9841A0064480062912D /* business_person-18.png in Resources */,
+				3FB5ECFF19FF7EC000182B00 /* Filmotype-Modern.otf in Resources */,
+				3F1BE9861A0064480062912D /* business_person-20.png in Resources */,
+				3F1BE9731A0064480062912D /* business_person-01.png in Resources */,
+				3F1BE9771A0064480062912D /* business_person-05.png in Resources */,
+				3F1BE9811A0064480062912D /* business_person-15.png in Resources */,
+				3F1BE97C1A0064480062912D /* business_person-10.png in Resources */,
+				3F1BE9821A0064480062912D /* business_person-16.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -346,8 +438,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = RatioCityDataApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -356,8 +450,10 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = RatioCityDataApp/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
@@ -414,6 +510,7 @@
 				3FB5ECD119FF32F600182B00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3FB5ECD219FF32F600182B00 /* Build configuration list for PBXNativeTarget "RatioCityDataAppTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +519,7 @@
 				3FB5ECD419FF32F600182B00 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
